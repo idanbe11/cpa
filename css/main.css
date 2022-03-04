@@ -25,7 +25,7 @@ body {
     position: relative;
     width: 100%;
     min-height: 1px;
-    font-size: 0.99vw;
+    font-size: 0.94vw;
     float: right;
 }
 .navbar-nav li a:hover {
@@ -358,6 +358,47 @@ a:-webkit-any-link {
 }}
 
 
+
+
+
+
+
+
+
+
+
+
+.more {
+  margin: 10px 0;
+}
+.more a i {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.more a {
+  display: inline-block;
+  padding: 10px 35px;
+  color: #FFF;
+  font-size: 18px;
+  font-weight: 300;
+  background: #3e4e66;
+}
+
+.hvr-shrink {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgb(0 0 0 / 0%);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: .3s;
+  transition-duration: .3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
 
 
 
