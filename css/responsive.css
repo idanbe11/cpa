@@ -1,0 +1,565 @@
+
+    /* responsive icons SVG on Slides home page*/
+
+    @media screen and (max-height: 930px) and (min-height: 1px){ 
+      .svg1 {
+         top: 17.6%;
+         width: auto;
+    }
+  }
+    @media screen and (max-height: 930px) and (min-height: 1px){ 
+      .svg2 {
+         top: 32.5%;        
+         width: auto;
+    }
+  }
+    @media screen and (max-height: 930px) and (min-height: 1px){ 
+      .svg3 {
+         top: 17.7%;    
+         width: auto;
+  
+    }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+    .svg1 {
+       top: 20.6%;
+       width: auto;
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+    .svg2 {
+       top: 37.5%;        
+       width: auto;
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+    .svg3 {
+       top: 19.7%;    
+       width: auto;
+  
+  }
+  }
+  
+  @media screen and (max-height: 930px) and (min-height: 1px){ 
+    .svg4 {
+       top: 43.6%;
+       width: auto;
+  }
+  }
+  @media screen and (max-height: 930px) and (min-height: 1px){ 
+    .svg5 {
+       top: 40.5%;        
+       width: auto;
+  }
+  }
+  @media screen and (max-height: 930px) and (min-height: 850px){ 
+    .svg6 {
+       top: 32.7%;    
+       width: auto;
+  
+  }
+  }
+  @media screen and (max-height: 850px) and (min-height: 680px){ 
+    .svg6 {
+       top: 39.7%;    
+       width: auto;
+  
+  }
+  }
+  @media screen and (max-height: 680px) and (min-height: 1px){ 
+    .svg6 {
+       top: 47.7%;    
+       width: auto;
+  
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 450px){ 
+  .svg4 {
+     top: 20.6%;
+     width: auto;
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+  .svg5 {
+     top: 37.5%;        
+     width: auto;
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+  .svg6 {
+     top: 19.7%;    
+     width: auto;
+  
+  }
+  }
+  @media screen and (max-height: 930px) and (min-height: 1px){ 
+    .svg7 {
+       top: 17.6%;
+       width: auto;
+  }
+  }
+  @media screen and (max-height: 930px) and (min-height: 1px){ 
+    .svg8 {
+       top: 32.5%;        
+       width: auto;
+  }
+  }
+  @media screen and (max-height: 930px) and (min-height: 1px){ 
+    .svg9 {
+       top: 17.7%;    
+       width: auto;
+  
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+  .svg1 {
+     top: 20.6%;
+     width: auto;
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+  .svg2 {
+     top: 37.5%;        
+     width: auto;
+  }
+  }
+  @media screen and (max-height: 640px) and (min-height: 1px){ 
+  .svg3 {
+     top: 19.7%;    
+     width: auto;
+  
+  }
+  }
+  @media screen and (max-width: 370px) and (min-width: 1px){ 
+    .svg9 {
+       top: 59.7%;    
+       width: auto;
+    
+    }
+    }
+    @media screen and (max-width: 370px) and (min-width: 1px){ 
+      .svg8 {
+         top: 59.7%;    
+         width: auto;
+      
+      }
+      }
+      @media screen and (max-width: 370px) and (min-width: 1px){ 
+        .svg7 {
+           top: 40.7%;    
+           width: auto;
+        
+        }
+        }
+        @media screen and (max-width: 370px) and (min-width: 1px){ 
+          .svg6 {
+             top: 42.7%;    
+             width: auto;
+          
+          }
+          }
+          @media screen and (max-width: 370px) and (min-width: 1px){ 
+            .svg5 {
+               top: 50.7%;    
+               width: auto;
+            
+            }
+            }
+            @media screen and (max-width: 1081px) and (min-width: 768px){ 
+              .navbar-brand:after {
+                 
+                content: '';
+                position: absolute;
+                top: -11px;
+                left: 2px;
+                width: calc(700% - 4px);
+                height: 70%;
+                background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.2));
+            }
+            }
+            @media screen and (max-width: 767px) and (min-width: 1px){ 
+              .navbar-brand:after {
+                 
+                content: '';
+                position: absolute;
+                top: -11px;
+                left: 2px;
+                width: calc(700% - 4px);
+                height: 70%;
+                background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.2));
+            }
+            }
+  
+            @media only screen and (min-width: 1050px) {
+              #mySlides,#slider {
+             /* Images would be in their full size */
+             background-size: auto !important;
+             }
+            }
+            
+            /* On smaller screens, decrease text size */
+            @media only screen and (max-width: 1600px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.7vw;
+               margin-left: -230px;
+              }
+            }
+            @media only screen and (max-width: 1650px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.6vw;
+               margin-left: -180px;
+              }
+            }
+            @media only screen and (max-width: 1450px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.6vw;
+               margin-left: -250px;
+              }
+            }
+            @media only screen and (max-width: 1350px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.4vw;
+               margin-left: -300px;
+              }
+            }
+            @media only screen and (max-width: 1250px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.4vw;
+               margin-left: -410px;
+              }
+            }
+            @media only screen and (max-width: 1100px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.3vw;
+               margin-left: -495px;
+              }
+            }
+            @media only screen and (max-width: 950px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.2vw;
+               margin-left: -550px;
+              }
+            }
+            @media only screen and (max-width: 850px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.3vw;
+               margin-left: -640px;
+              }
+            }
+            @media only screen and (max-width: 750px) {
+              .slidetext2,.slidetext1{
+               font-size: 2.6vw;
+               margin-left: -740px;
+              }
+            }
+            @media only screen and (max-width: 650px) {
+              .slidetext2,.slidetext1{
+               font-size: 3.1vw;
+               margin-left: -840px;
+              }
+            }
+            @media only screen and (max-width: 547px) {
+              .slidetext2,.slidetext1{
+               font-size: 4.2vw;
+               margin-left: -960px;
+              }
+            }
+            @media only screen and (max-width: 410px) {
+              .slidetext2,.slidetext1{
+               font-size: 5vw;
+               margin-left: -1000px;
+              }
+            }
+            
+            @media only screen and (max-width: 1650px) {
+              .postit , .choose1 ,.choose2 , .explain{
+               font-size: 1.2vw;
+               margin-left: -180px;
+              }
+            }
+            @media only screen and (max-width: 1400px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 1.3vw;
+               margin-left: -255px;
+              }
+            }
+            @media only screen and (max-width: 1250px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 1.4vw;
+               margin-left: -310px;
+              }
+            }
+            @media only screen and (max-width: 1160px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 1.4vw;
+               margin-left: -400px;
+              }
+            }
+            @media only screen and (max-width: 950px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 1.5vw;
+               margin-left: -480px;
+              }
+            }
+            @media only screen and (max-width: 800px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 1.6vw;
+               margin-left: -580px;
+              }
+            }
+            @media only screen and (max-width: 767px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 1.8vw;
+               margin-left: -620px;
+               margin-top: 40px;
+              }
+            }
+            @media only screen and (max-width: 650px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2vw;
+               margin-left: -660px;
+               margin-top: 75px;
+              }
+            }
+            @media only screen and (max-width: 600px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.4vw;
+               margin-left: -700px;
+               margin-top: 85px;
+              }
+            }
+            @media only screen and (max-width: 550px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.5vw;
+               margin-left: -745px;
+               margin-top: 90px;
+              }
+            }
+            @media only screen and (max-width: 500px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.5vw;
+               margin-left: -770px;
+               margin-top: 100px;
+              }
+            }
+            @media only screen and (max-width: 460px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.6vw;
+               margin-left: -790px;
+               margin-top: 105px;
+              }
+            }
+            @media only screen and (max-width: 440px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.7vw;
+               margin-left: -820px;
+               margin-top: 115px;
+              }
+            }
+            @media only screen and (max-width: 405px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.7vw;
+               margin-left: -840px;
+               margin-top: 115px;
+              }
+            }
+            @media only screen and (max-width: 405px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.9vw;
+               margin-left: -865px;
+               margin-top: 100px;
+              }
+            }
+            @media only screen and (max-width: 355px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.9vw;
+               margin-left: -875px;
+               margin-top: 100px;
+              }
+            }
+            @media only screen and (max-width: 355px) {
+              .postit , .choose1 ,.choose2, .explain{
+               font-size: 2.9vw;
+               margin-left: -875px;
+               margin-top: 100px;
+              }
+            }
+            @media (max-width: 1080px) {
+              .navbar .navbar-brand ,.navbar-sell{
+                  position: relative;;
+                  left: 22px;
+              top: 3px;
+              
+            }
+          }
+          @media screen and (min-width: 320px){
+            .slidetext1 , .slidetext2{
+               font-size: auto }
+            
+          }
+      /* responsive navbar glass on index page*/
+          @media (max-width: 500px) {
+              .navbar-brand:after {
+                content: '';
+              position: absolute;
+              top: 1px;
+              left: 2px;
+              width: calc(100% - 4px);
+              height: 50%;
+              background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,0.2));
+                
+              }
+            }
+            @media screen and (max-width: 1430px) and (min-width: 1150px){ 
+              .chooseh1 {
+                
+              margin-left: 34%;
+              margin-top: 13%;
+              }
+            }
+            @media screen and (max-width: 1150px) and (min-width: 800px){ 
+              .chooseh1 {
+                
+              margin-left: 23%;
+              margin-top: 17%;
+              }
+            }
+            @media screen and (max-width: 800px) and (min-width: 680px){ 
+              .chooseh1 {
+                
+              margin-left: 9%;
+              margin-top: 24%;
+              }
+            }
+            @media screen and (max-width: 800px) and (min-width: 644px){ 
+              .chooseh1 {
+                
+              margin-left: 21%;
+              margin-top: 27%;
+              }
+            }
+            @media screen and (max-width: 780px) and (min-width: 645px){ 
+              .choose1 ,.choose2, .explain {
+                
+              margin-left: -72%;
+              margin-top: 1%;
+              }
+            }
+            @media screen and (max-width: 644px) and (min-width: 550px){ 
+              .choose1 ,.choose2, .explain {
+                
+              margin-left: -88%;
+              margin-top: 1%;
+              }
+            }
+            @media screen and (max-width: 644px) and (min-width: 600px){ 
+              .chooseh1 {
+                
+              margin-left: 13%;
+              margin-top: 27%;
+              }
+            }
+            @media screen and (max-width: 600px) and (min-width: 500px){ 
+              .chooseh1 {
+                
+              margin-left: 24%;
+              margin-top: 34%;
+              }
+            }
+            @media screen and (max-width: 550px) and (min-width: 501px){ 
+              .choose1 ,.choose2, .explain {
+                
+              margin-left: -102%;
+              margin-top: 1%;
+              font-size: 2vh;
+              }
+            }
+            @media screen and (max-width: 501px) and (min-width: 467px){ 
+              .chooseh1 {
+                
+              margin-left: 11%;
+              margin-top: 42%;
+              }
+            }
+            @media screen and (max-width: 501px) and (min-width: 467px){ 
+              .choose1 ,.choose2, .explain {
+                
+              margin-left: -118%;
+              margin-top: 1%;
+              font-size: 2.01vh;
+              }
+            }
+            @media screen and (max-width: 467px) and (min-width: 450px){ 
+              .chooseh1 {
+                
+              margin-left: 18%;
+              margin-top: 42%;
+              }
+            }
+            @media screen and (max-width: 467px) and (min-width: 450px){ 
+              .choose1 ,.choose2, .explain {
+                
+              margin-left: -118%;
+              margin-top: 1%;
+              font-size: 1.9vh;
+              }
+            }
+            @media screen and (max-width: 450px) and (min-width: 400px){ 
+              .chooseh1 {
+                
+              margin-left: 22%;
+              margin-top: 42%;
+              }
+            }
+            @media screen and (max-width: 450px) and (min-width: 430px){ 
+              .choose1 {
+                
+              margin-left: -95%;
+              margin-top: 1%;
+              font-size: 3.8vh;
+              }
+            }
+            @media screen and (max-width: 450px) and (min-width: 430px){ 
+              .choose2 {
+                
+              margin-left: -185%;
+              margin-top: 39%;
+              font-size: 3.8vh;
+              }
+            }
+            @media screen and (max-width: 450px) and (min-width: 430px){ 
+              .explain {
+                
+              margin-left: -145%;
+              margin-top: 42%;
+              font-size: 2.4vh;
+              }
+            }
+            @media screen and (max-width: 430px) and (min-width: 400px){ 
+              .choose2 {
+                
+              margin-left: -191%;
+              margin-top: 39%;
+              font-size: 3.8vh;
+              }
+            }
+            @media screen and (max-width: 429px) and (min-width: 400px){ 
+              .explain {
+                
+              margin-left: -149%;
+              margin-top: 42%;
+              font-size: 2.2vh;
+              }
+            }
+            @media screen and (max-width: 429px) and (min-width: 400px){ 
+              .choose1 {
+                
+              margin-left:  -100%;
+              margin-top: 1%;
+              font-size: 3.8vh;
+              }
+            }
+  
+       
+  
+         

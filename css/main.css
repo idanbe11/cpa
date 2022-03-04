@@ -1,0 +1,255 @@
+
+body {
+    font-family: 'Assistant', sans-serif;
+    background: #f9faff;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    
+  }
+  /*--- LOGO navigation bar ---*/
+  h2{
+    color:black;
+  }
+
+  /*--- navigation bar ---*/
+  .navbar {
+    background: #ffffff;
+  }
+    /*--- navigation bar sell page ---*/
+    
+  
+  .nav-link {
+    color: black;
+    cursor: pointer;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    font-size: 1.2rem;
+    float: right;
+}
+.navbar-nav li a:hover {
+  color:white;
+  background-color: #5e72e4;
+  border-radius: 7px
+
+}
+
+
+
+.navbar-brand{
+  color:white;
+  cursor: pointer;
+}
+  
+@media (min-width: 992px){ 
+.col-lg-10 {
+    -webkit-box-flex: 0;
+  
+}}
+@media (min-width: 768px){ 
+.col-md-10 {
+    flex: 0 0 83.333333%;
+    /* max-width: 83.333333%; */
+}}
+
+
+
+ a{
+  transition: all 300ms ease;
+  
+ }
+  .nav-link {
+    margin-right: 2.3em ;
+    text-align: center;
+  }
+
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+  /* Slide*/
+  
+.mySlides {
+  display: none;
+}
+.img_slide {vertical-align: middle;
+  width: 100%;
+  height: 600px;
+  border-radius:  0% 0% 20% 20%;
+  box-shadow: 0 3px 5px 0 rgb(154 160 185 / 5%), 0 10px 20px 0 rgb(166 173 201 / 20%);
+  display: block;
+}
+
+
+
+
+#boxes-section {
+  text-align: center;
+
+ 
+ 
+}
+
+.section {
+  padding: 70px 0;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+div {
+  display: block;
+}
+
+.info_title {
+  position: relative;
+  font-size: 40px;
+  margin-bottom: 30px;
+  color: #3e4e66;
+  text-align: center;
+}
+
+.justify-content-center {
+  -webkit-box-pack: center !important;
+  -ms-flex-pack: center !important;
+  justify-content: center !important;
+}
+.row{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  text-align: center;
+  background-color: white;
+
+  box-shadow: 0 3px 5px 0 rgb(154 160 185 / 5%), 0 10px 20px 0 rgb(166 173 201 / 20%);
+  border-radius: 8px;
+  border-color: white;
+}
+
+.box-item {
+  text-align: center;
+  margin-bottom: 40px;
+
+
+}
+
+img, object, video, iframe, input, textarea {
+  max-width: 100%;
+}
+a:-webkit-any-link {
+  color: -webkit-link;
+  cursor: pointer;
+}
+.box-icon {
+  margin-bottom: 15px;
+}
+
+.box-title {
+  font-size: 22.9px;
+  color: #3e4e66;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+
+
+
+.container {
+  position: relative;
+}
+@media (min-width: 1590px){ 
+.container {
+    max-width: 1560px;
+}}
+@media (min-width: 1480px){ 
+.container {
+    max-width: 1170px;
+}}
+@media (min-width: 1200px){ 
+.container {
+    max-width: 1140px;
+}}
+@media (min-width: 992px){ 
+.container {
+    max-width: 960px;
+}}
+@media (min-width: 768px){ 
+.container {
+    max-width: 720px;
+}}
+@media (min-width: 576px){ 
+.container {
+    max-width: 540px;
+}}
+
+
+@media (min-width: 1200px){ 
+.col-xl-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}}
+
+@media (min-width: 992px){ 
+.col-lg-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}}
+
+@media (min-width: 768px){ 
+.col-md-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
